@@ -3,7 +3,7 @@
 - [Project overview](#project-overview)
 - [Data sources](#data-sources)
 - [Tools](#tools)
-- [Data cleaning/preparation](data-cleaning/preparation)
+- [Data cleaning](#data-cleaning)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Data analysis](#data-analysis)
 - [Results and findings](#results-and-findings)
@@ -20,7 +20,7 @@ Auto sales data: the primary data used for this analysis is the “auto sales da
 2.	PostgreSQL – cleaning, testing, and analyzing the data
 3.	PowerBi – designing the dashboard
 
-### Data cleaning/preparation
+### Data cleaning
 1.	Data loading and exploration
 2.	Handling missing values
 3.	Data cleaning and formatting

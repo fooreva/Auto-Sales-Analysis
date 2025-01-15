@@ -12,7 +12,7 @@
 ### Project overview
 The purpose of this analysis is to gain more insight on the sales of auto products, trends over the years and information that will help enhance sales and solve problems.
 
-![Overview](https://github.com/user-attachments/assets/e24cbea1-d838-4a36-a2d8-fe07c2952ccd)
+![Overview](https://github.com/user-attachments/assets/29247d2c-a83f-4076-aa73-144f166de779)
 
 ![product dashboard](https://github.com/user-attachments/assets/12d0db0b-48d6-4bd8-87fa-c5d52ddbbcf6)
 
